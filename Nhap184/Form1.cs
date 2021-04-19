@@ -32,7 +32,7 @@ namespace Nhap184
             cboNhasanxuat.SelectedIndex = -1;
             ResetValues();
 
-            
+            // Hello
 
         }
         private void Load_DataGridView()
